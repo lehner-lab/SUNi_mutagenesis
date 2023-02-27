@@ -1,1 +1,7 @@
 This script designs Scalable and Uniform Nicking mutagenesis (SUNi) primers
+
+Dependencies:
+matplotlib
+seaborn
+Bio.Seq
+Bio.SeqUtils
